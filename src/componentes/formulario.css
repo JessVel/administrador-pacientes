@@ -1,0 +1,20 @@
+.alert{
+    background-color: rgba(255, 0, 0, 0.384);
+    border: solid #ff0000 0.1rem ;
+    border-radius: 0.5rem;
+    color: rgb(85, 3, 3);
+    padding: 0.5em;
+    
+}
+
+.button{
+    background-color: #c10059;
+    color: #fff;
+    border-color: #A445B2;
+    opacity: 1;
+}
+
+.button:hover{
+    color: #fff;
+
+}
